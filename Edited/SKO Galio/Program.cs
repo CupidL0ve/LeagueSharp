@@ -216,7 +216,7 @@ namespace SKO_Galio
             var target = SimpleTs.GetTarget(Q.Range, SimpleTs.DamageType.Magical);
             var IgniteDmg = ObjectManager.Player.GetSummonerSpellDamage(target, Damage.SummonerSpell.Ignite);
             var QDmg = ObjectManager.Player.GetSpellDamage(target, SpellSlot.Q);
-            var Edmg = ObjectManager.Player.GetSpellDamage(target, SpellSlot.E);
+            var EDmg = ObjectManager.Player.GetSpellDamage(target, SpellSlot.E);
 
             if (target != null)
             {
