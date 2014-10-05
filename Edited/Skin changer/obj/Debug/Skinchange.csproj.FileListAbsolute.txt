@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Skinchange\Skinchange\bin\Release\Skinchange.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Skinchange\Skinchange\bin\Release\Skinchange.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Skinchange\Skinchange\bin\Release\Skinchange.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Skinchange\Skinchange\bin\Release\LeagueSharp.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Skinchange\Skinchange\bin\Release\LeagueSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Skinchange\Skinchange\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Skinchange\Skinchange\bin\Release\SharpDX.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Skinchange\Skinchange\bin\Release\LeagueSharp.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Skinchange\Skinchange\obj\Debug\Skinchange.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Skinchange\Skinchange\obj\Debug\Skinchange.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Skinchange\Skinchange\obj\Debug\Skinchange.pdb

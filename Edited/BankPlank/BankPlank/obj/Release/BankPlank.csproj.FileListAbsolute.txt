@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BankPlank\BankPlank\bin\Release\BankPlank.exe.config
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BankPlank\BankPlank\bin\Release\BankPlank.exe
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BankPlank\BankPlank\bin\Release\BankPlank.pdb
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BankPlank\BankPlank\bin\Release\clipper_library.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BankPlank\BankPlank\bin\Release\LeagueSharp.AppDomainManager.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BankPlank\BankPlank\bin\Release\LeagueSharp.Common.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BankPlank\BankPlank\bin\Release\LeagueSharp.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BankPlank\BankPlank\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BankPlank\BankPlank\bin\Release\SharpDX.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BankPlank\BankPlank\bin\Release\SharpDX.Toolkit.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BankPlank\BankPlank\bin\Release\SharpDX.Toolkit.Graphics.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BankPlank\BankPlank\bin\Release\LeagueSharp.xml
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BankPlank\BankPlank\bin\Release\SharpDX.Toolkit.xml
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BankPlank\BankPlank\bin\Release\SharpDX.Toolkit.Graphics.xml
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BankPlank\BankPlank\obj\Release\BankPlank.exe
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BankPlank\BankPlank\obj\Release\BankPlank.pdb

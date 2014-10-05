@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\kKayle2\bin\Release\kKayle2.exe.config
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\kKayle2\bin\Release\kKayle2.exe
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\kKayle2\bin\Release\kKayle2.pdb
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\kKayle2\bin\Release\LeagueSharp.Common.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\kKayle2\bin\Release\LeagueSharp.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\kKayle2\bin\Release\SharpDX.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\kKayle2\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\kKayle2\bin\Release\LeagueSharp.xml
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\kKayle2\obj\Release\kKayle2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\kKayle2\obj\Release\kKayle2.exe
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\kKayle2\obj\Release\kKayle2.pdb

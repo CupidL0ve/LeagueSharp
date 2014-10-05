@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BaseUlti\bin\Release\BaseUlt2.exe
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BaseUlti\bin\Release\BaseUlt2.pdb
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BaseUlti\bin\Release\LeagueSharp.Common.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BaseUlti\bin\Release\LeagueSharp.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BaseUlti\bin\Release\SharpDX.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BaseUlti\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BaseUlti\bin\Release\LeagueSharp.xml
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BaseUlti\obj\x86\Release\BaseUlt2.exe
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\BaseUlti\obj\x86\Release\BaseUlt2.pdb

@@ -1,0 +1,16 @@
+E:\GitHub\Lsharp\LeeSin\bin\Release\LeeSin.exe.config
+E:\GitHub\Lsharp\LeeSin\obj\Debug\LeeSin.csprojResolveAssemblyReference.cache
+E:\GitHub\Lsharp\LeeSin\bin\Release\LeeSin.exe
+E:\GitHub\Lsharp\LeeSin\bin\Release\LeeSin.pdb
+E:\GitHub\Lsharp\LeeSin\bin\Release\clipper_library.dll
+E:\GitHub\Lsharp\LeeSin\bin\Release\LeagueSharp.Common.dll
+E:\GitHub\Lsharp\LeeSin\bin\Release\LeagueSharp.dll
+E:\GitHub\Lsharp\LeeSin\bin\Release\SharpDX.Direct3D9.dll
+E:\GitHub\Lsharp\LeeSin\bin\Release\SharpDX.dll
+E:\GitHub\Lsharp\LeeSin\bin\Release\SharpDX.Toolkit.dll
+E:\GitHub\Lsharp\LeeSin\bin\Release\SharpDX.Toolkit.Graphics.dll
+E:\GitHub\Lsharp\LeeSin\bin\Release\LeagueSharp.xml
+E:\GitHub\Lsharp\LeeSin\bin\Release\SharpDX.Toolkit.xml
+E:\GitHub\Lsharp\LeeSin\bin\Release\SharpDX.Toolkit.Graphics.xml
+E:\GitHub\Lsharp\LeeSin\obj\Debug\LeeSin.exe
+E:\GitHub\Lsharp\LeeSin\obj\Debug\LeeSin.pdb

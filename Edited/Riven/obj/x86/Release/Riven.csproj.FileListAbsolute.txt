@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Riven\bin\Release\Riven.exe
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Riven\bin\Release\Riven.pdb
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Riven\bin\Release\clipper_library.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Riven\bin\Release\LeagueSharp.AppDomainManager.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Riven\bin\Release\LeagueSharp.Common.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Riven\bin\Release\LeagueSharp.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Riven\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Riven\bin\Release\SharpDX.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Riven\bin\Release\SharpDX.Toolkit.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Riven\bin\Release\SharpDX.Toolkit.Graphics.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Riven\bin\Release\LeagueSharp.xml
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Riven\bin\Release\SharpDX.Toolkit.xml
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Riven\bin\Release\SharpDX.Toolkit.Graphics.xml
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Riven\obj\x86\Release\Riven.exe
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Riven\obj\x86\Release\Riven.pdb

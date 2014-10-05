@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\LeeSin\bin\Release\LeeSin.exe.config
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\LeeSin\bin\Release\LeeSin.exe
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\LeeSin\bin\Release\LeeSin.pdb
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\LeeSin\bin\Release\clipper_library.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\LeeSin\bin\Release\LeagueSharp.Common.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\LeeSin\bin\Release\LeagueSharp.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\LeeSin\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\LeeSin\bin\Release\SharpDX.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\LeeSin\bin\Release\SharpDX.Toolkit.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\LeeSin\bin\Release\SharpDX.Toolkit.Graphics.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\LeeSin\bin\Release\LeagueSharp.xml
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\LeeSin\bin\Release\SharpDX.Toolkit.xml
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\LeeSin\bin\Release\SharpDX.Toolkit.Graphics.xml
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\LeeSin\obj\Release\LeeSin.exe
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\LeeSin\obj\Release\LeeSin.pdb

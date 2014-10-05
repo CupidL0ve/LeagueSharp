@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Blitzcrank\bin\Release\Blitzcrank.exe.config
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Blitzcrank\bin\Release\Blitzcrank.exe
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Blitzcrank\bin\Release\Blitzcrank.pdb
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Blitzcrank\bin\Release\LeagueSharp.Common.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Blitzcrank\bin\Release\LeagueSharp.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Blitzcrank\bin\Release\SharpDX.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Blitzcrank\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Blitzcrank\bin\Release\LeagueSharp.xml
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Blitzcrank\obj\Release\Blitzcrank.exe
+C:\Users\Administrator\Desktop\SVN\Repositories\1BA0420E\trunk\Blitzcrank\obj\Release\Blitzcrank.pdb
