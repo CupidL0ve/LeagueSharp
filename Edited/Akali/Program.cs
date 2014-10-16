@@ -134,7 +134,7 @@ namespace Akali
         }
         private static void Game_OnGameUpdate(EventArgs args)
         {
-            Orbwalker.SetAttacks(true);
+            Orbwalker.SetAttack(true);
             if (Config.Item("ComboActive").GetValue<KeyBind>().Active)
             {
                 Combo();
@@ -159,7 +159,7 @@ namespace Akali
         private static void Combo()
         {
             Obj_AI_Hero target = SimpleTs.GetTarget(R.Range, 0);
-            Orbwalker.SetAttacks(!R.IsReady(0) && !Q.IsReady(0) && !E.IsReady(0) && Geometry.Distance(Player, target) < 800f);
+            Orbwalker.SetAttack(!R.IsReady(0) && !Q.IsReady(0) && !E.IsReady(0) && Geometry.Distance(Player, target) < 800f);
             bool value = Config.Item("HEX").GetValue<bool>();
             bool value2 = Config.Item("DFG").GetValue<bool>();
             bool value3 = Config.Item("Cutlass").GetValue<bool>();
