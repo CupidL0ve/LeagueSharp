@@ -122,7 +122,7 @@ namespace Blitzcrank
 
         private static void Combo()
         {
-            Orbwalker.SetAttacks(true);
+            Orbwalker.SetAttack(true);
 
             var qTarget = SimpleTs.GetTarget(Q.Range, SimpleTs.DamageType.Magical);
             var eTarget = SimpleTs.GetTarget(E.Range, SimpleTs.DamageType.Physical);
@@ -155,7 +155,7 @@ namespace Blitzcrank
         {
 
             if (Player.IsDead) return;
-            Orbwalker.SetAttacks(true);
+            Orbwalker.SetAttack(true);
             Orbwalker.SetMovement(true);
 
             var useRKS = Config.Item("KillstealR").GetValue<bool>() && R.IsReady();
