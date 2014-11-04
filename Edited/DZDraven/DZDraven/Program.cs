@@ -305,7 +305,7 @@ namespace DZDraven
                         if(Q.GetDamage(hero)+player.GetAutoAttackDamage(hero)>=hero.Health)
                         {
                             if(GetQNumber()<1){Q.Cast();}
-                            Orbwalker.SetAttack(true);
+                            Orbwalker.SetAttacks(true);
                             Orbwalker.ForceTarget(hero);
                             break;
                         }
