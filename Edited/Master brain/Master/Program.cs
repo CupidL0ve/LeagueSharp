@@ -71,7 +71,7 @@ namespace Master
         {
             if (Player.IsDead) return;
             targetObj = GetTarget();
-            var newTarget = HUD.SelectedUnit;
+            var newTarget = hud.SelectedUnit;
             if (newTarget != null && newTarget.IsValid && newTarget is Obj_AI_Hero && (newTarget as Obj_AI_Hero).IsValidTarget(2000)) targetObj = (Obj_AI_Hero)newTarget;
             LXOrbwalker.ForcedTarget = Config.Item("tsFocus").GetValue<bool>() ? targetObj : null;
         }
